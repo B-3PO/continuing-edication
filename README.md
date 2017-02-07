@@ -1,4 +1,4 @@
-# Continuous Education
+# Continuing Education
 Let's learn together, let's play together, let's flourish together.
 
 
