@@ -1,8 +1,8 @@
 # continuous-edication
-a collection of links, code examples and presentations
+collection of links, code examples and presentations
 
 
-## Please Give Feedback
+### Please Give Feedback
 [Form: Click Here](https://docs.google.com/a/bypassmobile.com/forms/d/1rWjc-hdrNKzxDXwco7yO_Qe3Q2R4oPJpyDwRHJ8w_cc/prefill)
 
 
