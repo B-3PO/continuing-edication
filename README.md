@@ -1,5 +1,5 @@
-# Continuous Edication
-collection of links, code examples and presentations
+# Continuous Education
+Let's learn together, let's play together, let's flourish together.
 
 
 ### Please Give Feedback
