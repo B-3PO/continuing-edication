@@ -15,9 +15,9 @@ Quick Links:
 ## <a name="#beginners-javascript"></a> Beginners Javascript
 [Syllabus](https://docs.google.com/document/d/19fqCYxO516XTgAxKmaWxtl2A2sbG5DfU9ANgKt5Ir0Y/edit)
 
-#### <a name="#beginners-1"></a> Course Introduction
+#### <a name="#beginners-1"></a> **Class 1:** Course Introduction
 * [Slides](http://slides.com/benrubin/deck-1)
 
-#### <a name="#beginners-2"></a> Language Features
+#### <a name="#beginners-2"></a> **Class 2:** Language Features
 * [Slides](http://slides.com/benrubin/javascript)
 * [Class Materials](https://github.com/B-3PO/continuous-edication/tree/master/class-materials/beginners-javascript/beginners-2-language-features)
