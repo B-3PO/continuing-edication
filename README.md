@@ -8,7 +8,7 @@ collection of links, code examples and presentations
 
 **Quick Links:**<br />
 [Courses](#courses)
-1. [Beginners Javascript](#beginners-javascript)
+- [Beginners Javascript](#beginners-javascript)
   - [Course Introduction](#beginners-1)
   - [Language Features](#beginners-2)
 
