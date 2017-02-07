@@ -1,4 +1,4 @@
-# continuous-edication
+# Continuous Edication
 collection of links, code examples and presentations
 
 
